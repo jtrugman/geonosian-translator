@@ -115,6 +115,10 @@ For more worked examples (questions, heavy-gap fictions, register edge cases), s
 - [references/lexicon.md](references/lexicon.md) — canonical Geonosian vocabulary and morphology
 - [references/examples.md](references/examples.md) — worked translations across registers
 
+## Credits
+
+The lexicon and grammar rules encoded in this skill are based on the YouTube breakdown ["Learn to Speak Geonosian!"](https://youtu.be/2vqsJC4sYig), which reverse-engineers Geonosian from Episode II. All credit for the underlying rule set goes to the creator of that video. This repo just packages those rules as a Claude Agent Skill so Claude can apply them consistently to new English input.
+
 ## License
 
 See [LICENSE](LICENSE).
