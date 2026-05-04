@@ -19,7 +19,7 @@ It matches register: casual sentences stay plain, while formal, commanding, or p
 ### Option A — Clone into your skills directory
 
 ```bash
-git clone https://github.com/<your-username>/geonosian-translator.git ~/.claude/skills/geonosian-translator
+git clone https://github.com/jtrugman/geonosian-translator.git ~/.claude/skills/geonosian-translator
 ```
 
 ### Option B — Download and copy
